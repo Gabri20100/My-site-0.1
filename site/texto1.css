@@ -1,0 +1,26 @@
+html{
+    color:#ffffff;
+    background-color:#000000;
+    text-align: center;
+}
+
+h3{
+    margin: 80px 50px 0px 0px;
+}
+
+.caixa{
+    margin-left:410;
+    margin-bottom: 30px;
+    padding-right:12px;
+    padding-top: 15px;
+    border-block-color: rgb(105, 102, 102);
+    background-color:#0000;
+}
+
+.my{
+    text-decoration: none;
+    color: rgb(228, 228, 228);
+    font-style: initial;
+    font-weight: 700px;
+    margin-left: 100px;
+}
